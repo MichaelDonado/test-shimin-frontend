@@ -39,8 +39,4 @@ abrir [http://localhost:3000](http://localhost:3000) en el navegador.
 1. Crear el archivo ```.env.prod```
 2. Llenar las variables de entorno de prod
 
-# Notas
-```
-Mirar aplicacion desplegada:
-https://test-lite-thinking-frontend.herokuapp.com/
-```
+
