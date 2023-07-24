@@ -1,5 +1,5 @@
 <p align="center" style="background: black">
-   <a href="https://litethinking.com/home" target="blank"><img src="https://litethinking.com/static/media/Logo_Lite_Thinking_Sin_Fondo.0aa257fac8571af0f71e.png" width="200" alt="lite Logo" /></a>
+   <a href="http://www.sistra.com.co/" target="blank"><img src="http://www.sistra.com.co/img/sistrablanco.png" width="200" alt="shimin Logo" /></a>
 </p>
 
 ## Getting Started
@@ -39,8 +39,4 @@ abrir [http://localhost:3000](http://localhost:3000) en el navegador.
 1. Crear el archivo ```.env.prod```
 2. Llenar las variables de entorno de prod
 
-# Notas
-```
-Mirar aplicacion desplegada:
-https://test-lite-thinking-frontend.herokuapp.com/
-```
+
